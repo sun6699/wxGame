@@ -9,8 +9,9 @@
 	},
 	"compileType": "game",
 	"libVersion": "game",
-	"appid": "touristappid",
+	"appid": "wx524e380322e3735d",
 	"projectname": "WxGame",
+	"isGameTourist": true,
 	"condition": {
 		"search": {
 			"current": -1,
@@ -28,6 +29,5 @@
 			"current": -1,
 			"list": []
 		}
-	},
-	"isGameTourist": true
+	}
 }
